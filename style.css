@@ -161,3 +161,7 @@ footer a{border-bottom-color:var(--rule)}
   .pdf{display:none}
   .pdf-small{display:block}
 }
+
+/* portrait on the home page */
+.photo{width:100%;aspect-ratio:4/5;object-fit:cover;object-position:center 20%}
+@media (max-width:759px){.photo{max-width:200px}}
