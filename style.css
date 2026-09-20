@@ -1,14 +1,14 @@
 /* Giacomo Melli — site styles
    Edit colours and type here. Every page reads this one file.
-   Want a different shade of paper? Try --paper: #FFFFFF (plain white)
-   or #F4F9F3 (much greener). Change one line, every page follows. */
+   Want a tint of green back? Try --paper: #FBFDFA (a whisper)
+   or #F4F9F3 (clearly green). Change one line, every page follows. */
 
 :root{
-  --paper:#FBFDFA;
+  --paper:#FFFFFF;
   --ink:#16201C;
   --muted:#5C6A64;
-  --rule:#E4EDE1;
-  --rule-soft:#F0F6EE;
+  --rule:#E4E7E4;
+  --rule-soft:#F1F3F1;
   --accent:#0F5245;
   --link-line:rgba(15,82,69,.30);
   --flag:#3F5A6B;
