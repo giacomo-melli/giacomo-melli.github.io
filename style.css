@@ -131,3 +131,8 @@ h3.sub{font-size:16px;font-weight:700;color:var(--ink);margin:34px 0 12px}
 footer{border-top:1px solid var(--rule);padding:22px 0 56px;font-size:16px;color:var(--muted)}
 footer ul{list-style:none;display:flex;flex-wrap:wrap;gap:6px 20px;margin:0 0 10px;padding:0}
 footer a{color:var(--ink);border-bottom-color:var(--rule)}
+
+/* research agenda pillars */
+.pillars{margin:0 0 20px;padding-left:1.25em;max-width:64ch}
+.pillars li{margin:0 0 9px;padding-left:.2em}
+.pillars li::marker{color:var(--accent)}
